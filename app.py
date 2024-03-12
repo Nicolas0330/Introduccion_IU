@@ -5,7 +5,7 @@ st.title("Aplicaviones para Ciudades Inteligentes")
 
 st.header("En este espacio podras obtener informacion de tu ciudad")
 
-image = Image.open('Escultura.png')
+image = Image.open('Escultura.jpg')
 st.image(image, caption='Inteligencia Urbana')
 # st.write("Enlace para mi sistema de internet de las cosas")
 
