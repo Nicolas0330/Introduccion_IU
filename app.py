@@ -3,8 +3,9 @@ from PIL import Image
 
 st.title(Aplicaviones para Ciudades Inteligentes")
 
-# st.header("En este espacio podras obtener informacion de tu ciudad")
+st.header("En este espacio podras obtener informacion de tu ciudad")
 
-# image = Image.open('Sistemaiot.png')
-# st.image(image, caption='Inteligencia Urbana')
+image = Image.open('Sistemaiot.png')
+st.image(image, caption='Inteligencia Urbana')
+# st.write("Enlace para mi sistema de internet de las cosas")
 
